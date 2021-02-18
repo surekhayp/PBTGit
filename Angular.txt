@@ -1,0 +1,1 @@
+Angular is a free and open source JavaScript based framework for creating client front ned application
